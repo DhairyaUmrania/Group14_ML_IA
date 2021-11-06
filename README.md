@@ -14,3 +14,7 @@ Random Forest still performs relatively well.
 But with the SMOTE oversampling technique, the results of Naive Bayes, Decision Tree and Random Forest are drastically improved.
 
 
+Link to Screencast:
+
+https://drive.google.com/drive/u/1/folders/1Yq-WLvv5JoCWHcMo_OmgghYBDegvtlGO
+
