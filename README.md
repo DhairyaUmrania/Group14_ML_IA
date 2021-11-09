@@ -1,4 +1,4 @@
-# Group14_ML_IA
+# Group14 ML IA
 Intrusion Detection using Machine Learning
 
 In this project, we ran machine learning algorithms and synthetic sampling techniques to classify and detect intrusions.
