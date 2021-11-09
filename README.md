@@ -15,4 +15,4 @@ But with the SMOTE oversampling technique, the results of Naive Bayes, Decision 
 
 
 Link to Screencast:
-[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1kjWbyt5i4AmmA7bUL-KmsMyGqPZatHD8/view?usp=sharing)](https://drive.google.com/file/d/1DYpbLb7piYlHDaf9tM1W2UY7bTM3JTrE/view?usp=sharing)
+[![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=1kjWbyt5i4AmmA7bUL-KmsMyGqPZatHD8)](https://drive.google.com/file/d/1DYpbLb7piYlHDaf9tM1W2UY7bTM3JTrE/view?usp=sharing)
